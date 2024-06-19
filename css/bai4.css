@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.avatar{
+    width: 300px;
+    background-color: coral;
+    margin: 30px auto;
+    box-shadow: 0px 5px 13px 0px gray;
+}
+.avatar img{
+    width: 100%;
+}
+.info{
+    padding: 15px;
+    line-height: 1.7;
+}

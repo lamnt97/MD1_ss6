@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form-info{
+   width: 300px;
+   /* height: 300px; */
+    background-color: bisque;
+    margin: 30px auto;
+}
+.form-title{
+    padding: 15px;
+}
+.form-login{
+    padding: 15px;
+}
+.tuoi{
+    margin-top: -10px;
+}
+.btn button{
+    padding: 20px;
+}
+.form-login input:hover{
+    background-color: yellow;
+}
+.form-login button{
+    margin-top: 10px;
+}
